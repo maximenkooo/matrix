@@ -1,0 +1,19 @@
+F:\Пары\ооп\matrix10\matrix10\bin\Debug\matrix10.exe
+F:\Пары\ооп\matrix10\matrix10\bin\Debug\matrix10.pdb
+F:\Пары\ооп\matrix10\matrix10\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Пары\ооп\matrix10\matrix10\obj\x86\Debug\matrix10.exe
+F:\Пары\ооп\matrix10\matrix10\obj\x86\Debug\matrix10.pdb
+E:\Пары\ооп\matrix10 - копия\matrix10\obj\x86\Debug\matrix10.exe
+E:\Пары\ооп\matrix10 - копия\matrix10\obj\x86\Debug\matrix10.pdb
+E:\Пары\ооп\matrix10 - копия\matrix10\bin\Debug\matrix10.exe
+E:\Пары\ооп\matrix10 - копия\matrix10\bin\Debug\matrix10.pdb
+E:\Пары\ооп\matrix10 - копия\matrix10\obj\x86\Debug\matrix10.csprojResolveAssemblyReference.cache
+F:\Пары\ооп\matrix10 - копия\matrix10\obj\x86\Debug\matrix10.exe
+F:\Пары\ооп\matrix10 - копия\matrix10\obj\x86\Debug\matrix10.pdb
+F:\Пары\ооп\matrix10 - копия - копия\matrix10\obj\x86\Debug\matrix10.exe
+F:\Пары\ооп\matrix10 - копия - копия\matrix10\obj\x86\Debug\matrix10.pdb
+F:\Пары\ооп\matrix10 - копия - копия\matrix10\bin\Debug\matrix10.exe
+F:\Пары\ооп\matrix10 - копия - копия\matrix10\bin\Debug\matrix10.pdb
+F:\Пары\ооп\matrix10 - копия - копия\matrix10\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Пары\ооп\matrix10 - копия - копия\matrix10\obj\x86\Debug\matrix10.exe
+E:\Пары\ооп\matrix10 - копия - копия\matrix10\obj\x86\Debug\matrix10.pdb
